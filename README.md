@@ -1,6 +1,6 @@
 # pytorch_simple_CNN
 
-Данный репозиторий является выполнением семинара по курсу от МФТИ:
+Данный репозиторий является выполнением семинара на курсу от МФТИ:
 
 https://www.youtube.com/watch?v=xgVr9vISm8w&list=PL0Ks75aof3Tiru-UvOvYmXzD1tU0NrR8V&index=39
 
